@@ -1,4 +1,4 @@
-### Hi there 👋
+## About Me 💫
 
 👩‍💻 I am a self-taught data scientist who has been working in the blockchain industry for over 4 years. While working at a blockchain analytics firm as an analyst, I had opportunities to collaborate with data scientists and engineers on different projects from building trading strategies to predictive analytics. Naturally, I shifted toward data science and learned how to code in Python. 
 
