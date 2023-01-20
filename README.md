@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+👩‍💻 I am a self-taught data scientist who has been working in the blockchain industry for over 4 years. While working at a blockchain analytics firm as an analyst, I had opportunities to collaborate with data scientists and engineers on different projects from building trading strategies to predictive analytics. Naturally, I shifted toward data science and learned how to code in Python. 
+
+📈 I am a CAIA, so the datasets I play with are mainly financial data such as price, volume and market indicators. I enjoyed coding in Python as this language makes it easy to work with statistics which I often adopt to provide insights.
+
 <!--
 **hy-kang0504/hy-kang0504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
